@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.paololupo.kanagawatheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.paololupo.kanagawatheme.MyBundle
 
 class MyApplicationService {
 
