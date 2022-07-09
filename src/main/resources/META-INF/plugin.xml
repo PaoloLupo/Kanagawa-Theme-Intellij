@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.paololupo.kanagawatheme</id>
-    <name>KanagawaTheme</name>
-    <vendor>paololupo</vendor>
+    <name>Kanagawa Theme</name>
+    <vendor>Paolo Lupo</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
