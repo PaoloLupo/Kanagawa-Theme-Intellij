@@ -7,12 +7,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.paololupo.kanagawatheme.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.paololupo.kanagawatheme.services.MyProjectService"/>
+        <themeProvider id="4b7fc071-df18-48bc-9870-66d754601563" path="/kanagawa.theme.json"/>
     </extensions>
 
-    <applicationListeners>
-        <listener class="com.github.paololupo.kanagawatheme.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

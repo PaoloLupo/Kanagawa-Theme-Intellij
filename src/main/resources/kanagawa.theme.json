@@ -1,0 +1,57 @@
+{
+  "name": "Kanagawa",
+  "dark": true,
+  "author": "PaoloLupo",
+  "editorScheme": "/kanagawa.xml",
+  "colors": {
+    "basicBackground" : "#1f1f28",
+    "darkBackground" : "#16161D",
+    "columnBackground" : "#2A2A37",
+    "cursorLine" : "#363646",
+    "defaultForeground" : "#DCD7BA",
+    "darkForeground" : "#C8C093",
+    "greenSuccess" : "#76946A",
+    "diagInfo": "#6A9589",
+    "selectedBackground" : "#223249"
+  },
+  "ui": {
+    "*" : {
+      "background" : "darkBackground",
+      "foreground" : "darkForeground",
+      "infoForeground": "diagInfo",
+      "successForeground": "greenSuccess",
+
+      "selectionBackground": "#223249",
+      "selectionForeground": "#FFFFFF",
+      "selectionInactiveBackground": "#42424f",
+      "selectionBackgroundInactive": "#42424F",
+
+      "disabledBackground": "darkBackground",
+      "inactiveBackground": "darkBackground",
+
+      "disabledForeground": "selectedBackground",
+      "disabledText": "selectedBackground",
+      "inactiveForeground": "selectedBackground",
+
+      "acceleratorForeground": "#E6E6E6",
+      "acceleratorSelectionForeground": "#E6E6E6",
+
+      "errorForeground": "#E82424",
+
+      "disabledBorderColor": "#AA6E28",
+      "focusColor": "#2D4F67",
+      "focusedBorderColor": "#2D4F67",
+      "hoverBorderColor": "#2D4F67",
+      "pressedBorderColor": "#2D4F67",
+
+      "separatorColor": "lightBackground",
+      "lineSeparatorColor": "lightBackground"
+    },
+
+    "Editor" : {
+      "background" : "defaultBackground",
+      "foreground" : "defaultForeground"
+    }
+
+  }
+}
