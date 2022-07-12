@@ -67,6 +67,21 @@
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="97ba6b" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="2d4f66" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="74a097" />
@@ -99,7 +114,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="947eb7" />
+        <option name="FOREGROUND" value="947eb1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -233,6 +248,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2a2a37" />
+        <option name="ERROR_STRIPE_COLOR" value="53536c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="707b7b" />
@@ -263,7 +285,7 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="ff00" />
+        <option name="FOREGROUND" value="97ba6b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -304,11 +326,18 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bfa26d" />
+        <option name="BACKGROUND" value="2d4f66" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1e1f28" />
-        <option name="ERROR_STRIPE_COLOR" value="530d" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="ERROR_STRIPE_COLOR" value="97ba6b" />
       </value>
     </option>
     <option name="TEXT">
