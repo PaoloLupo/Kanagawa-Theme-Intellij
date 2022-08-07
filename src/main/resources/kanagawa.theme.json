@@ -2,7 +2,7 @@
   "name": "Kanagawa",
   "dark": true,
   "author": "PaoloLupo",
-  "editorScheme": "/kanagawa.xml",
+  "editorScheme": "/kanagawa_dark.xml",
   "colors": {
     "basicBackground" : "#1f1f28",
     "darkBackground" : "#16161D",
