@@ -3,18 +3,22 @@
     <option name="CARET_COLOR" value="2b2b2b" />
     <option name="CARET_ROW_COLOR" value="363646" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1f28" />
+    <option name="DOC_COMMENT_GUIDE" value="195a9e" />
     <option name="GUTTER_BACKGROUND" value="2a2a37" />
     <option name="LINE_NUMBERS_COLOR" value="707b7b" />
     <option name="METHOD_SEPARATORS_COLOR" value="ff00" />
+    <option name="MODIFIED_TAB_ICON" value="195a9e" />
     <option name="SELECTION_BACKGROUND" value="223249" />
     <option name="ScrollBar.thumbColor" value="2a2a37" />
     <option name="TEARLINE_COLOR" value="53536c" />
+    <option name="DOCUMENTATION_COLOR" value="1e1f28" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="927f56" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="e36876" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -126,20 +130,20 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="79a79e" />
+        <option name="FOREGROUND" value="a9b7c6" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="7d9bd7" />
+        <option name="EFFECT_COLOR" value="707b7b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="bfa26d" />
+        <option name="FOREGROUND" value="7591c9" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="97ba6b" />
+        <option name="FOREGROUND" value="195a9e" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -147,16 +151,21 @@
         <option name="FOREGROUND" value="53536c" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e5c283" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="717068" />
-        <option name="EFFECT_COLOR" value="e62424" />
+        <option name="EFFECT_COLOR" value="e36876" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="947eb7" />
+        <option name="FOREGROUND" value="7591c9" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -166,7 +175,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="bfa26d" />
+        <option name="FOREGROUND" value="e36876" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -186,7 +195,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="717068" />
+        <option name="FOREGROUND" value="53536c" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -265,6 +274,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="223249" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="727169" />
+        <option name="BACKGROUND" value="16161d" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="727169" />
+        <option name="BACKGROUND" value="16161d" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="dbd6b9" />
+        <option name="BACKGROUND" value="2d4f67" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -354,6 +381,13 @@
         <option name="ERROR_STRIPE_COLOR" value="61936f" />
       </value>
     </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e5c283" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
     <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
     <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
@@ -380,5 +414,15 @@
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="BACKGROUND" value="727169" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="727169" />
+      </value>
+    </option>
   </attributes>
 </scheme>
