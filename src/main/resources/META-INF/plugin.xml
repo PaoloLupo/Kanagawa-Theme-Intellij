@@ -7,7 +7,8 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="4b7fc071-df18-48bc-9870-66d754601563" path="/kanagawa.theme.json"/>
+        <themeProvider id="4b7fc071-df18-48bc-9870-66d754601563" path="/kanagawa_dark.theme.json"/>
+        <themeProvider id="063e9a0c-f356-4eed-a40a-eaadf650749a" path="/kanagawa_light.theme.json"/>
     </extensions>
 
 </idea-plugin>
