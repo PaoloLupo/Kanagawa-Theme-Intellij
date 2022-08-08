@@ -145,5 +145,23 @@
         <option name="FOREGROUND" value="8f7d55" />
       </value>
     </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e3e3ea" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="d7e2d4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="eccdcd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
